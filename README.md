@@ -1,5 +1,7 @@
 ## Workload Scheduler
 
+The core scheduler behind [Turbo DA core](https://github.com/availproject/Turbo-DA/tree/main/data_submission/src/workload_scheduler):
+
 A workload scheduler is designed to showcase how consumer worker pools can be managed to balance work loads while reading messages published
 from a producer. The crate consists of the following modules:
 
